@@ -2,7 +2,7 @@
 Multipule page Ecommerce website design using TailwindCSS
 
 ### Description 
-Designing an e-commerce website with Tailwind CSS is a multi-step process. Initially, I set up the project by incorporating Tailwind CSS,  CLI. Next, i  build the HTML structure, including components like the header, product listings, filters, product details, shopping cart, and footer. I Utilize Tailwind CSS classes to style these elements.
+Designing an e-commerce website with Tailwind CSS is a multi-step process. Initially, I set up the project by incorporating Tailwind CSS,  CLI. Next, I  build the HTML structure, including components like the header, product listings, filters, product details, shopping cart, and footer. I Utilize Tailwind CSS classes to style these elements.
 
 ### Preview
 
